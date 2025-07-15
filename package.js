@@ -1,12 +1,11 @@
 {
-  "name": "puppeteer-crawler",
+  "name": "puppeteer-app",
   "version": "1.0.0",
-  "main": "server.js",
+  "main": "index.js",
   "scripts": {
-    "start": "node server.js"
+    "start": "node index.js"
   },
   "dependencies": {
-    "express": "^4.18.2",
     "puppeteer": "^21.3.8"
   }
-      }
+}
